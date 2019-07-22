@@ -1,6 +1,6 @@
 ### My Portfoio (react version)
 
-In my portfolio you can read more about me to know what i did and what i currently doing and to see my work.
+In my portfolio you can read more about me to know what i did and what i am currently doing and to see my work.
 
 In the project directory, you can run:
 
